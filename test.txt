@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 04FB-0CB4
+
+ Directory of C:\Users\Paras Maggo\Desktop\Project
+
+01-11-2021  12:56    <DIR>          .
+01-11-2021  12:56    <DIR>          ..
+01-11-2021  12:56                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  274,934,595,584 bytes free
